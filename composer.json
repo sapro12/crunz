@@ -1,5 +1,5 @@
 {
-    "name": "lavary/crunz",
+    "name": "sapro12/crunz",
     "description": "Schedule your tasks right from the code.",
     "type": "library",
     "keywords": [
@@ -12,7 +12,7 @@
         "Job Manager",
         "Event Runner"
     ],
-    "homepage": "https://github.com/lavary/crunz",
+    "homepage": "https://github.com/sapro12/crunz",
     "license": "MIT",
     "authors": [
         {

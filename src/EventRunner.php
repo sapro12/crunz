@@ -148,6 +148,8 @@ class EventRunner {
                     unset($this->schedules[$scheduleKey]);
                 }
             }
+
+            usleep(500000);
         } 
     }
 
